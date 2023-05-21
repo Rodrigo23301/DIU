@@ -11,7 +11,7 @@
 >>> - Nunito Sans: Para cuerpos de texto o secciones que requieran buena legibilidad. Además de ser legible, aporta claridad a cuerpos de texto extensos.
 
 ## Landing Page
->>>(img/)
+>>>![](img/landing_page.png)
 
 
 ## Mockup: LAYOUT HI-FI
