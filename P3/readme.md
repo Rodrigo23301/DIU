@@ -31,4 +31,5 @@
 >>>Apartado de Reservas: Permite reservar entradas para el espectáculo seleccionando la cantidad de adultos o niños, extras a incluir y la opción de cena. Al final aparece un desglose de la reserva actual, el total a pagar, diferentes opciones de pago y la opción de descargar las entradas una vez hecho el pago.
 >>>![](img/reserva.png)
 
-## Documentación: Publicación del Case Study
+>>>Enlace a nuestros bocetos Hi-Fi: https://www.figma.com/file/7qI40VSIeomUpGyVkK8GrR/Hi-Fi-Layout?type=design&node-id=0%3A1&t=FtOobQNWUpcU84Sn-1
+
